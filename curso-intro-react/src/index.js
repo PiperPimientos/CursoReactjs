@@ -5,9 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <App>
-    <h1>Esto es un titulo</h1>
-  </App>,
+  <App />,
   document.getElementById('root')
 );
 
